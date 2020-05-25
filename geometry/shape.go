@@ -1,6 +1,6 @@
 package geometry
 
 type Shape interface {
-	area() float64
-	perimeter() float64
+	Area() float64
+	Perimeter() float64
 }
